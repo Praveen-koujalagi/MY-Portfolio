@@ -36,7 +36,7 @@ const projectList = [
       "Contributed to the development of a system designed for both hospitals and the public. This project helps streamline blood donation processes, providing an efficient interface for managing donations and requests.",
     url: "https://github.com/Praveen-koujalagi/Blood_Bank_Management_System",
   },
-  ];
+];
 
 const Portfolio = () => {
   return (

@@ -27,9 +27,9 @@ const siteProps = {
   name: "Praveen Koujalagi",
   title: "Aspiring Data Scientist",
   email: "praveenkoujalagi99@gmail.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "https://www.linkedin.com/in/praveen-koujalagi/",
+  gitHub: "gitHub",
+  instagram: "",
+  linkedIn: "linkedIn",
   medium: "",
 };
 
